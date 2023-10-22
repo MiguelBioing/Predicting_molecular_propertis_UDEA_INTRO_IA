@@ -15,7 +15,7 @@ Para que los datos esten disponibles en el colab  es necesario obtener un archiv
 ![Image Description](https://github.com/MiguelBioing/Predicting_molecular_propertis_UDEA_INTRO_IA/blob/4825fb7914aadefd564ff6a8c6df6de2c4a126d8/images/K%20tutorial.jpg)
 ![Image Description](https://github.com/MiguelBioing/Predicting_molecular_propertis_UDEA_INTRO_IA/blob/06aa7091afa875c71f146209eaf9b48dfb235918/images/k%20tutorial%202.jpg)
 *    Luergo de ejecutar las lineas anteriores se deben descomprimir los datos descargados
-
+![Image Description](https://github.com/MiguelBioing/Predicting_molecular_propertis_UDEA_INTRO_IA/blob/e2e06d999ff3af06238f6790d1a53cc67e501ce6/images/k%20tutorial%203.jpg)
 
 
 “Predicting Molecular Properties”: Enlace de la competencia de Kaggle:[ Predicting Molecular Properties | Kaggle](https://www.kaggle.com/competitions/champs-scalar-coupling/overview)
