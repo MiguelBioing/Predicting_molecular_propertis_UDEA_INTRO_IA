@@ -23,4 +23,4 @@ Para que los datos esten disponibles en el colab  es necesario obtener un archiv
  ## Videos
 
 *   Video Entrega 2: https://youtu.be/RpLqrDV_gl0
-*   Video Entrega final:
+*   Video Entrega final: https://youtu.be/XSmTmXP50IQ
